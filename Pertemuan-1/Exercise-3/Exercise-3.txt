@@ -1,0 +1,8 @@
+Judul: Menentukan Kelulusan Siswa pada Ujian
+Deklarasi: nilai
+Implementasi:
+    input nilai
+    if nilai >= 60: 
+        Display lulus
+    else: 
+        Display tidak lulus

@@ -1,0 +1,7 @@
+print("Jawab Pertanyaan-Pertanyaan Berikut")
+input("Siapa namamu? ")
+input("Dari mana asalmu? ")
+input("Apa profesimu?  ")
+input("Dari mana negara asalmu? ")
+input("Apa hal-hal yang kamu sukai? ")
+print("Terima kasih.")
