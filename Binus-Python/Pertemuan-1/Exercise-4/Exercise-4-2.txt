@@ -1,6 +1,0 @@
-Judul: Mengonversi Besar Suhu dari Celcius ke Kelvin
-Deklarasi: celcius, kelvin
-Implementasi:
-    input celcius
-    kelvin = celcius + 273
-    Display kelvin

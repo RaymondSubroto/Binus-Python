@@ -1,5 +1,0 @@
-print("Raymond")
-print("Jakarta")
-print("Pelajar")
-print("Indonesia")
-print("Game")

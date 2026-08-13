@@ -1,5 +1,0 @@
-print("Menghitung Volume Balok")
-p = int(input("p = "))
-l = int(input("l = "))
-t = int(input("t = "))
-print("Volume =", p*l*t)

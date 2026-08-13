@@ -1,7 +1,0 @@
-Judul: Mencari Luas dari Lapangan Sepak Bola
-Deklarasi: panjang, lebar
-Implementasi: 
-    input panjang
-    input lebar
-    luas = panjang * lebar
-    Display luas
