@@ -1,0 +1,6 @@
+Judul: Mengonversi Besar Suhu dari Celcius ke Fahrenheit
+Deklarasi: celcius, fahrenheit
+Implementasi:
+    input celcius
+    fahrenheit = (celcius * 9/5) + 32
+    Display fahrenheit

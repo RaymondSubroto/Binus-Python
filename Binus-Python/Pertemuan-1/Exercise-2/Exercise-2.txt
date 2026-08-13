@@ -1,0 +1,6 @@
+Judul: Mencari Luas dari Lapangan Sepak Bola
+Deklarasi: π, r
+Implementasi: 
+    input r
+    luas = π * r * r
+    Display luas

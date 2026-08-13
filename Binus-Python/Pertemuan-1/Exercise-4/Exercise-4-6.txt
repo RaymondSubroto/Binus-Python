@@ -1,0 +1,6 @@
+Judul: Mengonversi Besar Suhu dari Kelvin ke Fahrenheit
+Deklarasi: kelvin, fahrenheit
+Implementasi:
+    input fahrenheit
+    fahrenheit = (kelvin - 273) * 9/5 + 32
+    Display fahrenheit
